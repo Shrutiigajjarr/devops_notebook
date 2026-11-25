@@ -1,4 +1,4 @@
-# DevOps Practice 
+# DevOps Notebook
 
 A hands-on record of my journey in DevOps and Cloud Engineering, documenting practical tasks, experiments, scripts, and troubleshooting.
 
